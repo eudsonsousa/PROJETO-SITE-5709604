@@ -1,0 +1,150 @@
+<div class="page-wrap">
+  <header class="site-header">
+    <div class="global-announcement">
+      <p>os melhores preços da internet! ! ! <a href="#">impressao 3D</a></p>
+    </div>
+    <nav class="site-nav">
+      <ul>
+        <li><a class="site-logo" href="#">3D -X</a></li>
+        <li><a href="#">Animes  </a></li>
+        <li><a href="#">Filmes</a></li>
+        <li><a href="#">Lugares </a></li>
+        <li><a href="#">air-soft </a></li>
+        <li><a href="#">modelagem  </a></li>
+      </ul>
+    </nav>
+  </header>
+  <main class="page-main">
+    <h1>Conheça um pouco do nosso trabalho</h1>
+    <div class="product-filter">
+      <fieldset>
+        <legend>Clases</legend>
+        <ul>
+          <li>
+            <input id="wood" name="material" value="wood" type="radio">
+            <label for="wood">Animes</label>
+          </li>
+          <li>
+            <input id="glass" name="material" value="glass" type="radio">
+            <label for="glass">Filmes</label>
+          </li>
+          <li>
+            <input id="metal" name="material" value="metal" type="radio">
+            <label for="metal">Lugares</label>
+          </li>
+        </ul>
+      </fieldset>
+      <fieldset>
+        <legend>Modelagem </legend>
+        <ul>
+          <li>
+            <input id="rectangle" name="material" value="rectangle" type="radio">
+            <label for="rectangle">Peças mecânicas</label>
+          </li>
+          <li>
+            <input id="square" name="material" value="square" type="radio">
+            <label for="square">Vasos Unicos</label>
+          </li>
+          <li>
+            <input id="oval" name="material" value="oval" type="radio">
+            <label for="oval">Pintura </label>
+          </li>
+          <li>
+            <input id="round" name="material" value="round" type="radio">
+            <label for="round">Projetos</label>
+          </li>
+        </ul>
+      </fieldset>
+    </div>
+    <ul class="products">
+      <li class="card">
+        <div class="card__text">
+          <h2 class="card__title">
+            <a class="card__link" href="#">Animes</a>
+          </h2>
+          <p class="product-price">R$ 150,00 &ndash; R$ 380,00</p>
+          <div class="product-compare">
+            <label for"compare-table1">Compare</label>
+            <input id="compare-table1" name="compare" type="checkbox" value="compare">
+          </div>
+        </div>
+        <div class="card__img">
+          <img src="https://blog.co3d.art/wp-content/uploads/2021/06/marvel-heros-statue-same-scale-1024x682.jpg" loading="lazy" width="750" height="750">
+        </div>
+      </li>
+      <li class="card">
+        <div class="card__text">
+          <h2 class="card__title">
+            <a class="card__link" href="#">Filmes</a>
+          </h2>
+          <p class="product-price">R$ 150,00 &ndash; R$ 380,00</p>
+          <div class="product-compare">
+            <label for"compare-table2">Compare</label>
+            <input id="compare-table2" name="compare" type="checkbox" value="compare">
+          </div>
+        </div>
+        <div class="card__img">
+          <img src="https://i.ytimg.com/vi/5GMgpvWtbBE/maxresdefault.jpg" loading="lazy" width="750" height="750">
+        </div>
+      </li>
+      <li class="card">
+        <div class="card__text">
+          <h2 class="card__title">
+            <a class="card__link" href="#">Lugares</a>
+          </h2>
+          <p class="product-price">R$ 500,00 &ndash; R$ 2000,00</p>
+          <div class="product-compare">
+            <label for"compare-table3">Compare</label>
+            <input id="compare-table3" name="compare" type="checkbox" value="compare">
+          </div>
+        </div>
+        <div class="card__img">
+          <img src="https://images.adsttc.com/media/images/568a/bcfb/e58e/ce62/ae00/0393/newsletter/image.jpg?1451932915" alt="a white table for two with matching chairs." loading="lazy" width="750" height="750">
+        </div>
+      </li>
+      <li class="card">
+        <div class="card__text">
+          <h2 class="card__title">
+            <a class="card__link" 
+        </div>
+      </li>
+    </ul>
+  </main>
+</div>
+<footer class="site-footer">
+  <div class="footer-links">
+    <h2>Tables</h2>
+    <ul>
+      <li><a href="#">Dining</a></li>
+      <li><a href="#">Outdoor</a></li>
+      <li><a href="#">Coffee</a></li>
+      <li><a href="#">Side</a></li>
+    </ul>
+  </div>
+  <div class="footer-links">
+    <h2>Help</h2>
+    <ul>
+      <li><a href="#">FAQ</a></li>
+      <li><a href="#">Shipments</a></li>
+      <li><a href="#">Returns</a></li>
+      <li><a href="#">Stores</a></li>
+    </ul>
+  </div>
+  <div class="footer-links">
+    <h2>About Us</h2>
+    <ul>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Contact</a></li>
+      <li><a href="#">Careers</a></li>
+      <li><a href="#">Stores</a></li>
+    </ul>
+  </div>
+  <div class="footer-legal">
+    <p>Copyright &copy; 2022 Ted's Tables, Inc.</p>
+    <ul>
+      <li><a href="#">Privacy Policy</a></li>
+      <li><a href="#">Terms of Service</a></li>
+      <li><a href="#">Refund Policy</a></li>
+    </ul>
+  </div>
+</footer>
